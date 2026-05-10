@@ -277,7 +277,7 @@ export interface AiTool {
       outputType: 'Terminal',
     },
     {
-      whatsTheName: 'agenttrace',
+      whatsTheName: 'Agenttrace',
       urlLink: 'https://github.com/luoyuctl/agenttrace',
       description: 'Local TUI for reviewing AI coding agent session cost, tokens, latency, failures, and health',
       company: '',
